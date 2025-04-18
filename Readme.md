@@ -47,9 +47,11 @@
 <ul>
 <li><a target="_blank" href=""></a></li>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://linkedin.com/in/ayushmishra-profile" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/ayush_m5504/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=#F35369" alt="instagram" /></a></p>
+<p><a target="_blank" href="https://linkedin.com/in/ayushmishra-profile" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
+<!-- <a target="_blank" href="https://www.instagram.com/ayush_m5504/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=#F35369" alt="instagram" /></a></p> -->
+## 🏆 GitHub Trophies
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush05m&show_icons=true&locale=en" alt="Ayush05m" /></p>
+<!-- ![](https://github-profile-trophy.vercel.app/?username=hardipsolanki22&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush05m&" alt="Ayush05m" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayush05m&show_icons=true&locale=en&layout=compact" alt="Ayush05m" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayush05m" alt="Ayush05m" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayush05m&margin-w=4" alt="Ayush05m" /></a></p>
